@@ -8,12 +8,12 @@ module.exports = [
 	{
 		title: "Github",
 		image: require("../images/Github-icon.png"),
-		link: "https://bitbucket.org/MShipman/"
+		link: "https://github.com/MShipman93?tab=repositories"
 	},
 	{
 		title: "Bitbucket",
 		image: require("../images/Bitbucket-icon.png"),
-		link: "https://github.com/MShipman93?tab=repositories"
+		link: "https://bitbucket.org/MShipman/"
 	}
 
 ];
